@@ -1,2 +1,2 @@
 # CV-DL-Project
-My project for the computer vision and deep learning class at NTNU.
+My project for the computer vision and deep learning class at NTNU. Made an object detector. FPN backbone, focal loss and deeper convolutional nets from the RetinaNet paper was implemented. I also implemented data augmentation, specific adaptation to the dataset (after qualitative and quantitative analysis). Lastly I transfer learned a detectron2 object detector to the dataset given for the project.
